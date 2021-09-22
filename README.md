@@ -1,2 +1,8 @@
 # images
-这里存放项目中引用的图片，采用GitHub + jsDelivr + TinyPNG+ PicGo 打造稳定快速、高效免费的图床服务。
+
+本仓库作为图床使用，以供博客或其他文章中使用图片时可以以**链接的形式**~
+
+- 技术方案为：使用 **jsDelivr** 镜像加速，解决 **GitHub** 网络的问题
+
+- 图片压缩优化：使用 [imgbot](https://imgbot.net/) 自动压缩图片
+
